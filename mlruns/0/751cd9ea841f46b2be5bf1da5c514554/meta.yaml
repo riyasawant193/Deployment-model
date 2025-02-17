@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Admin/Documents/Deployment-model/mlruns/0/751cd9ea841f46b2be5bf1da5c514554/artifacts
+end_time: 1739780436921
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 751cd9ea841f46b2be5bf1da5c514554
+run_name: worried-bear-128
+run_uuid: 751cd9ea841f46b2be5bf1da5c514554
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739780406246
+status: 3
+tags: []
+user_id: Admin
